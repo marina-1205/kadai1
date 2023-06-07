@@ -79,6 +79,7 @@ footer{
     width: 90%;
     margin-top: 20px;
     padding:10px;
+     position: relative;
   }
   
   .box:last-cild{
