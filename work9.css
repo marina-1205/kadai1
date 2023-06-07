@@ -66,31 +66,17 @@ footer{
 
 @media screen and (max-width: 768px){
   
-  header{
-    width: 100%;
-  }
   
   main{
-    width: 90%;
+    width: 100%;
+    padding: 50px auto;
     display: block;
   }
   
   .box{
     width: 90%;
-    margin-top: 20px;
-    padding:10px;
-     position: relative;
+    margin: 20px;
+    position: relative;
+    background-color: #eeeeee;
   }
-  
-  .box:last-cild{
-  margin-bottom: 50px;
-  }
-  
-  .box:first-child{
-    margin-top: 50px
-  }
-  
-  footer{
-    width: 100%;
-  }
-  
+}
