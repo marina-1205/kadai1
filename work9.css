@@ -11,6 +11,7 @@ header {
 
 
 main{
+  position: center;
   width: 960px;
   margin: 50px auto;
   display: flex;
@@ -69,13 +70,13 @@ footer{
   
   main{
     width: 100%;
-    padding: 50px auto;
+    padding: 50px 10px;
     display: block;
   }
   
   .box{
     width: 90%;
-    margin: 20px;
+    margin: 20px auto;
     position: relative;
     background-color: #eeeeee;
   }
